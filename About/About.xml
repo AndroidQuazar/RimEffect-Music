@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rim-Effect: Music</name>
+	<author>Vanilla Expanded Team and Co.</author>
+	<supportedVersions><li>1.2</li></supportedVersions>
+	<packageId>RimEffect.Music</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>brrainz.harmony</li>
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>RimEffect.Core</li>
+	</loadAfter>
+	<description>Rim Effect: Music features over 100 tracks from Mass Effect, Mass Effect 2 and Mass Effect 3. The music has been sorted to play in specific scenarios - combat oriented music will play when threats are present, while the environmental, ambient music will play in calm periods of your game.
+	
+All credits and copyrights go to Electronic Arts, Bioware as well as the composers of the original Mass Effect OST:
+Jack Wall, Sam Hulick, Richard Jacques, David Kates, Clint Mansell, Christopher Lennertz, Cris Velasco, and Sascha Dikiciyan.
+
+We (authors) do not claim any ownership of these music tracks.
+	</description>
+</ModMetaData>

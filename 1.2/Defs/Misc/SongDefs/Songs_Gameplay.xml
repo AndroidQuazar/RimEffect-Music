@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<SongDef>
+		<clipPath>me1_battle_at_eden_prime</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_breeding_ground</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_eden_prime</clipPath>
+		<volume>0.64</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+
+	<SongDef>
+		<clipPath>me1_fatal_confrontation</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_final_assault</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_from_the_wreckage</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_ilos</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_infusion</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_in_pursuit_of_saren</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_liaras_world</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_love_theme</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_mass_effect_theme</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_noveria</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_protecting_the_colony</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_sarens_base</clipPath>
+		<volume>0.64</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_saren</clipPath>
+		<volume>0.64</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_sovereigns_theme</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_spectre_induction</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_alien_queen</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_citadel</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_end_reprise</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_normandy</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_presidium</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_secret_labs</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_thorian</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_the_wards</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_uncharted_worlds</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_uplink</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_victory</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_vigil</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me1_virmire_ride</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_an_unknown_enemy</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-baseescape</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-baseescape2</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-captured</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-missionkenson</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-thebeginingoftheend</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_arrival-themassrelay</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_a_rude_awakening</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_charges_of_treason</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_chatting_with_mordin</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_collector_fever</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_convincing_jack</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_crash_landing</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_delivering_the_cure</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_escape_from_omega</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_facial_reconstruction</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_finding_archangel</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_freedoms_progress</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_garrus</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_gathering_charges</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_grunt</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_grunt_awakens</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_gunship_battle</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_horizon</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_humans_are_disappearing</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_infiltration</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_jack</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_jacob</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_jump_drive</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_ksm-deathfromabove</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_ksm-infiltration</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_ksm-makingourescape</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_ksm-partymusic</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_legion</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-agentcombat</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-astheyenter</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-buildingexplosion</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-doublecross</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-finalcombat</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-shadowbroker</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_lsb-vasircombat</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_miranda</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_mother_vs_daughter</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_negotiating_with_miranda</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_new_worlds</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_overlord-bosscombat</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_overlord-combattroops</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_overlord-finalconversation</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_overlord-tensionrising</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_pure_krogan</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_reflections</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_shuttle_ride</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_suicide_mission</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_tali</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_testing_memories</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_attack</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_collector_base</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_end_run</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_final_reckoning</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_human_reaper</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_illusive_man</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_lazarus_project</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_long_walk</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_normandy_attacked</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_normandy_reborn</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_the_swarms-shepards_end</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me2_what_the_future_holds</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_an_end_once_and_for_all</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_aralakh_company</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_a_cerberus_agent</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_a_future_for_the_krogan</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_betrayal</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_archival_knowledge</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_battle_within_battle_without</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_casino_mystery</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_citadel_underbelly</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_combat_simulator_mirror</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_combat_simulator_tier_1</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_combat_simulator_tier_2</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_combat_simulator_tier_3</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_combat_simulator_tier_4</clipPath>
+		<volume>0.64</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_farewell_and_into_the_inevitable</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_i_dream_of_sushi</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_jokers_fifteen_minutes</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_liaras_theme</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_lost_in_you</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_piracy</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_shepards_tango</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_shepard_falls</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_team_rescue</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_the_anti-shepard</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_citadel_-_the_end</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_creation</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_das_malefitz</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_defeat</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_an_end_once_and_for_all-extended_cut</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_a_future_that_many_will_never_see</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_i_am_alive_and_i_am_not_alone</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_i_will_watch_over_the_ones_who_live_on</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_resolution</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_wake_up</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_ec_-_we_fought_as_a_united_galaxy</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_im_proud_of_you</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_im_sorry</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_i_was_lost_without_you</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_leaving_earth</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_mars</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_prothean_beacon</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_rannoch</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_reaper_chase</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_stand_strong_stand_together</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_surkesh</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_ardat_yakshi</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_cerberus_plot</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_fate_of_the_galaxy</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_fleets_arrive</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_scientists</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_the_view_of_palaven</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>me3_we_face_our_enemy_together</clipPath>
+		<volume>0.64</volume>
+	</SongDef>
+	
+</Defs>
