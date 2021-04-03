@@ -3,7 +3,7 @@
 <!-- ///////////////////////// Atmospheric Songs ///////////////////////// -->
 
 	<SongDef>
-		<clipPath>me1_liara's_world</clipPath>
+		<clipPath>me1_liaras_world</clipPath>
 		<volume>0.64</volume>
 	</SongDef>
 
@@ -118,7 +118,7 @@
 	</SongDef>
 
 	<SongDef>
-		<clipPath>me3_citadel_-_liara's_theme</clipPath>
+		<clipPath>me3_citadel_-_liaras_theme</clipPath>
 		<volume>0.64</volume>
 	</SongDef>
 
@@ -128,7 +128,7 @@
 	</SongDef>
 
 	<SongDef>
-		<clipPath>me3_ec_-_an_end,_once_and_for_all-extended_cut</clipPath>
+		<clipPath>me3_ec_-_an_end_once_and_for_all-extended_cut</clipPath>
 		<volume>0.64</volume>
 	</SongDef>
 
@@ -148,12 +148,12 @@
 	</SongDef>
 
 	<SongDef>
-		<clipPath>me3_i'm_proud_of_you</clipPath>
+		<clipPath>me3_im_proud_of_you</clipPath>
 		<volume>0.64</volume>
 	</SongDef>
 
 	<SongDef>
-		<clipPath>me3_i'm_sorry</clipPath>
+		<clipPath>me3_im_sorry</clipPath>
 		<volume>0.64</volume>
 	</SongDef>
 
@@ -290,7 +290,7 @@
 	</SongDef>
 
 	<SongDef>
-		<clipPath>me2_the_swarms-shepard's_end</clipPath>
+		<clipPath>me2_the_swarms-shepards_end</clipPath>
 		<volume>0.64</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -339,7 +339,7 @@
 
 <!-- Easter Egg -->
 	<SongDef>
-		<clipPath>egg_me3_citadel_-_shepard's_tango</clipPath>
+		<clipPath>egg_me3_citadel_-_shepards_tango</clipPath>
 		<volume>0.64</volume>
 		<commonality>0.1</commonality>
 		<tense>true</tense>
