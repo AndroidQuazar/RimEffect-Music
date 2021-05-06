@@ -12,11 +12,13 @@
 		<li>erdelf.HumanoidAlienRaces</li>
 		<li>RimEffect.Core</li>
 	</loadAfter>
-	<description>Rim Effect: Music features 60 tracks from Mass Effect, Mass Effect 2 and Mass Effect 3. The music has been sorted to play in specific scenarios - combat oriented music will play when threats are present, while the environmental, ambient music will play in calm periods of your game.
-	
+	<description>Rim Effect is a large overhaul mod series, adding the story, races, objects, and conflicts of Mass Effect universe into RimWorld. The Mass Effect elements are not meant to stand out, and as such are blended into the RimWorld style by utilising the same naming conventions and writing styles.
+
+Much like Vanilla Factions Expanded, the Rim Effect mod series comes divided into sub-modules, firstly to allow the players to pick exactly what elements they want in their games, secondly to ease the production and design process.
+
+Rim Effect Music adds 61 music assets from the original trilogy, divided into tense music and normal soundtracks. We claim no ownership of the OST.
+
 All credits and copyrights go to Electronic Arts, Bioware as well as the composers of the original Mass Effect OST:
 Jack Wall, Sam Hulick, Richard Jacques, David Kates, Clint Mansell, Christopher Lennertz, Cris Velasco, and Sascha Dikiciyan.
-
-We (authors) do not claim any ownership of these music tracks.
 	</description>
 </ModMetaData>
